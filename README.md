@@ -2,6 +2,23 @@
 
 A full-stack mobile application for managing your favorite movies, built with React Native (Expo) for the frontend and Node.js/Express for the backend.
 
+## Screenshots
+### 1. Login Page
+   ![image](https://github.com/user-attachments/assets/4578d6f8-d3f0-41ca-a7aa-d8e2a1f04009)
+   
+### 2. Home Page
+   ![image](https://github.com/user-attachments/assets/a2d94db5-96fb-4377-bdf4-1a8a8a3c1618)
+   
+### 3. Movie Selection
+   ![image](https://github.com/user-attachments/assets/565ef710-1b8c-4c8e-9b20-a432454a48b4)
+   
+### 4. Favorites Page
+   ![image](https://github.com/user-attachments/assets/0809ae99-6b68-4b2c-a629-d83fc516a003)
+   
+### 5. Configuration Page
+   ![image](https://github.com/user-attachments/assets/bb667dcd-6a9c-4e85-a79e-9819e88f5205)
+
+
 ## Features
 
 - User authentication (Login/Sign-up)
