@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment Variables
+server/.env
+mobile/.env
+
+# Expo
+mobile/.expo/
+mobile/.expo-shared/
+
+# Build Output
+dist/
+build/
+*.cache
+
+# TypeScript
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.bak
+*.tmp
+*.patch
+
+# Patches
+mobile/patches/
